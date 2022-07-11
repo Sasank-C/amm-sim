@@ -1,3 +1,13 @@
+# AMM Simulator Project
+
+Part 1 of this ensures that the preservation properties of the AMM are withheld. The tests cab be found in test/index.ts
+
+Getting Started
+```shell
+npm install
+npx hardhat test
+```
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
